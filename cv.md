@@ -22,3 +22,12 @@ VSCode, Chrome Dev tools, Photoshop, Figma
 ## Code examples
 
 https://github.com/803142/codejam-canvas
+https://github.com/803142/codejam-canvas
+
+## Education:
+   Vitebsk State University.
+   Microsoft Virtual Academy.
+   Codecademy.
+
+## English level b1 by 
+http://learnenglish.britishcouncil.org/online-english-level-test
