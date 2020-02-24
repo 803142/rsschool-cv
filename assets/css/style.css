@@ -73,6 +73,7 @@
 }
 .column-contacts{
   line-height: 1.8em;
+  padding-inline-start: 1em;
 }
 li>.fas, li>.far {
   display: inline-flex;
@@ -124,6 +125,9 @@ li>.fas, li>.far {
   border-radius: 1rem;
 }
 @media (max-width: 1096px) {
+  .wrapper {
+    margin: 1rem;
+  }
   .nav-menu_ul {
 	  font-size: 2rem;
     position: fixed;
